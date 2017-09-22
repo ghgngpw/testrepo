@@ -13,3 +13,5 @@ print('Hello World')
 print('Hello World')
 
 feature1_func()
+
+feature2_func()
