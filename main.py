@@ -5,5 +5,7 @@ def feature1_func():
     print('Feature 1')
 
 print('Hello World')
+print('Hello World')
+print('Hello World')
 
 feature1_func()
