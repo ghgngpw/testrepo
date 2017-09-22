@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 
+# Feature 1 implementation
 def feature1_func():
-    print('feature1_func()')
+    print('Feature 1')
 
 print('Hello World')
 
